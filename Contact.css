@@ -1,0 +1,8 @@
+.nom__et_prenom{
+    display: flex;
+ color: white;
+}
+.telephone__et__email{
+    display: flex;
+ color: white;
+}
